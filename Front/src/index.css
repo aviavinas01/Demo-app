@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Your custom Krayaaa Colors */
+  --color-krayaa-dark: #2B231D;
+  --color-krayaa-gold: #F2B705;
+  --color-krayaa-cream: #F4F1EA;
+  --color-krayaa-navbar: #000277;
+
+  /* Your custom Canva Fonts */
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
